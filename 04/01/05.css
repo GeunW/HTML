@@ -1,0 +1,52 @@
+*{
+    border: 1px solid ;
+}
+
+html, body, h1, h2, h3, p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+table, td, tr, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+h1{
+    font-size: 24px;
+    color: red;
+}
+
+.first{
+    background-color: beige;
+}
+
+.p_first{
+    font-size: 15px;
+    color: blueviolet;
+}
+
+#p_second{
+    font-size: 32px;
+    color: aqua;
+}
+
+input[type="text"]{
+    border: 2px dashed red;
+
+}
+
+button{
+    font-size: 24px;
+    height: 40px;
+    width: 120px;
+    background-color: #f0ff01;
+    border: none;
+    color: navy;
+
+}
+
+button:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}

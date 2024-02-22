@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #f35bd2;
+    border-bottom: 10px dotted #c648df;
+    padding-bottom: 5px;
+    
+}
+
+.job-title{
+    font-size: 15px;
+    color: #a09c9c;
+    font-weight: bolder;
+    padding-bottom: 2px;
+}
+
+h2{
+    font-style: italic;
+    padding-bottom: 2px;
+}
+
+p{
+    text-align: justify;
+    
+}
+
+ul{
+    border: 5px solid #720a86;
+    background-color: #e9e4e9;
+    padding: 20px;
+}
+
+li{
+    margin: 5px;
+}
+
+li#Email a{
+    color: #12a819e8;
+}
+
+li#Web a{
+    color: #fb6542;
+}

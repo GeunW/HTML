@@ -1,0 +1,19 @@
+p{
+    background-color: #fdb4b4;
+    font-family: 'NanumBaeEunHyeCe';
+
+}
+
+div{
+    width: 1000px;    
+    height: 500px;
+    background-image: url("img/kim.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid;
+}
+div:hover{
+    transform: scale(1.2) rotate(10deg);
+    
+}

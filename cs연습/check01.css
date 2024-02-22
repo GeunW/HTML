@@ -1,0 +1,61 @@
+
+
+.letter{
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    background-image: url(img/pngegg.png);
+    transform: translate(250px,50px) rotate(15deg);
+    background-size: cover;
+    
+}
+
+h2{
+    padding-top: 150px;
+    transform: translate(-30px) rotate(-5deg);
+    font-family: 'NanumBaeEunHyeCe';
+    font-size: 30px;
+}
+p{
+    padding: 0;
+    margin: 10px;
+    transform: translate(-15px) rotate(-5deg);
+    font-family: 'NanumBaeEunHyeCe';
+    font-size: 20px;
+}
+
+div.login{
+    transform: translate(350px,10px);
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 15px;
+    width: 200px;
+    height: 50px;
+    background-color: #03c75a;
+    -webkit-box-shadow: 0 4px 8px 0 rgba(3,199,90,.12);
+    box-shadow: 0 4px 8px 0 rgba(3,199,90,.12);
+}
+div.login:hover{
+
+    cursor: pointer;
+    background-color: #17b75e;
+    -webkit-box-shadow: 0 5px 10px 0 rgba(3,199,90,.24);
+    box-shadow: 0 5px 10px 0 rgba(3,199,90,.24)
+    
+}
+a{
+    text-decoration: none;
+}
+span.login-logo{
+
+    
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+}
+span.login{
+    
+    font-size: 15px;
+    color: #ffffff;
+}

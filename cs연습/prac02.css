@@ -1,0 +1,11 @@
+*{
+    border: 1px solid black;
+}
+h1{
+    margin: 20px ;
+    padding: 20px ;
+}
+
+.container-item{
+    display: inline-block;
+}
